@@ -1,38 +1,25 @@
 # Tchailenova's D2 Wishlist
-Created for use with DIM's wishlist feature, each entry in this list has been calibrated to fulfill the maximum potential for each gun. This list contains weaponry regardless of game-type or intended usage scenario.
+*Created for use with DIM's wishlist feature, each entry in this list has been calibrated to fulfill the maximum potential for each gun. This list contains weaponry regardless of game-type or intended usage scenario.*
 
-Acknowledgements
+-------------------
+### Acknowledgements
 - DIM for having this feature
 - D2Foundry for letting me build custom rolls
 - 48klocs for the multi-roll bloc-maker
 - my friends who love theory-crafting like I do
   - Zanithar
   - Darms
-  - Ani'akaan
+  - Kinsmarck
   - The [WOLF] clan!
 
-## Resources:
+### Resources:
+* https://d2foundry.gg/
+* https://d2foundry.gg/w/weaponhash?p=0,0,0,0&m=0&mw=0
+* https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
+* https://data.destinysets.com/
+* https://raw.githubusercontent.com/Tchailenova/Tchailenova-s-D2-Wishlist/main/Tchailenova's%20D2%20Wishlist%20Content
 
-https://48klocs.github.io/wish-list-magic-wand/fingerwave.html
-
-https://d2foundry.gg/
-
-https://data.destinysets.com/
-
-https://d2foundry.gg/w/weaponhash?p=0,0,0,0&m=0&mw=0
-
--------------------
-
-### Organization of the wishlist::
-(alphabetic within general sections; put the specific wish list versions at the top of the file and the generic versions at the bottom; the first roll DIM comes across that matches will be the one DIM applies.)
-
-Godrolls at the top
-
-Trash-items at the bottom
-
--------------------
-
-## GUIDE::
+# GUIDE
 - comment-lines do not require escape characters
 - notes (visible in *triage* panel of weapon in DIM) may be appended at the end of the wishlist hash-data.
 	- in-line `#notes:`
@@ -51,3 +38,10 @@ Trash-items at the bottom
   - Hashes may be found using the Destiny Sets Data Explorer (contains items, item categories, perks, and more)
 - If there are multiple perks for a given slot that you'd be happy to get, and further there are multiple slots where multiple perks would be nice, 48klocs built a little tool that will help you build out all of those permutations (see link above)
 - To Trash-List an entry, prefix the item hash with `-` this will be searchable in DIM via `is:trashlist`
+-------------------
+### Organization of the wishlist::
+(alphabetic within general sections; put the specific wish list versions at the top of the file and the generic versions at the bottom; the first roll DIM comes across that matches will be the one DIM applies.)
+
+Godrolls at the top
+
+Trash-items at the bottom
