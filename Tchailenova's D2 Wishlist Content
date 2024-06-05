@@ -40,6 +40,10 @@ dimwishlist:item=1312670900&perks=3525010810,332133599,951095735,2888557110,1863
 dimwishlist:item=1312670900&perks=3798852852,332133599,951095735,2888557110,186337601
 
 
+Claws of the Wolf (Void Pulse Rifle)
+dimwishlist:item=1505862304&perks=1840239774,3230963543,776531651,2048641572#notes: priority 6 alternative for void (de)buff pair. tags: #pve
+
+
 Dragoncult Sickle (Strand Caster Sword)
 dimwishlist:item=3668817296&perks=3666208348,269888150,3705817207,3708227201,220689851#notes: excellent for damage-phases with adds nearby. tags: #pve
 
@@ -87,11 +91,31 @@ Path of Least Resistance (Arc Trace Rifle)
 dimwishlist:item=2827764482&perks=1840239774,732557052,1583705720,4049631843,2839173408#notes: fantastically max-statted when fully activated. tags: #pve
 
 
+Shayura's Wrath (Void Submachine Gun)
+dimwishlist:item=2022294213&perks=1840239774,3230963543,776531651,2048641572#notes: priority 3 alternative for void (de)buff pair. tags: #pve
+
+
 Stormchaser (Arc Linear Fusion Rifle)
 //notes:godroll stormchaser (options: firing line for DMG phase with fireteam, or frenzy when togetherness is not guaranteed. tags: #pve
 dimwishlist:item=3652506829&perks=1840239774,2969185026,247725512,1771339417,4154828211
 dimwishlist:item=3652506829&perks=1840239774,2969185026,247725512,4104185692,4154828211
 
 
+The Recluse (Void Submachine Gun)
+dimwishlist:item=1050806815&perks=1482024992,3230963543,776531651,2048641572#notes: priority 5 alternative for void (de)buff pair. tags: #pve
+
+
+The Riposte (Void Auto Rifle)
+dimwishlist:item=3754408118&perks=1467527085,3230963543,776531651,2048641572#notes: priority 1 alternative for void (de)buff pair. tags: #pve
+
+
 Tyranny of Heaven (Solar Combat Bow)
 dimwishlist:item=3388655311&perks=3768438372,3827198035,2848615171,4293542123,1489048135#notes: excellent incandescent bow tags: #pve
+
+
+Vouchsafe (Void Scout Rifle)
+dimwishlist:item=355922321&perks=1482024992,3230963543,776531651,2048641572#notes: priority 4 alternative for void (de)buff pair. tags: #pve
+
+
+Word of Crota (Void Hand Cannon)
+dimwishlist:item=120706239&perks=1840239774,3142289711,776531651,2048641572#notes: priority 2 alternative for void (de)buff pair. tags: #pve
